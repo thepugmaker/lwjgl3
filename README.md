@@ -9,6 +9,8 @@
 
 ## LWJGL - Lightweight Java Game Library 3
 
+(I did not mean to fork LWJGL but let this open in case someone needs a extremely old version ofLWJGL)
+
 LWJGL (https://www.lwjgl.org) is a Java library that enables cross-platform
 access to popular native APIs useful in the development of graphics
 (OpenGL/Vulkan), audio (OpenAL) and parallel computing (OpenCL) applications.
